@@ -152,3 +152,5 @@ fabric.properties
 
 # Project files
 /in/
+/wav/*
+/mp3/*
