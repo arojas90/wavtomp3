@@ -22,7 +22,7 @@ Verificar version
 
 
 ## Instalar pydub
-- pip install pydub
+- `pip install pydub`
 
 ## Convertir audio
 
